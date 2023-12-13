@@ -9,6 +9,6 @@ export const refs = {
   // btnUpWrapper: document.querySelector('.btn-up'),
   // like: document.querySelector('.heart'),
   searchInput: document.querySelector('.search-form-input'),
-  footer: document.querySelector('.footer'),
+  // footer: document.querySelector('.footer'),
   // endCollectionText: document.querySelector('.end-collection-text'),
 };

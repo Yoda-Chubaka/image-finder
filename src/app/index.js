@@ -166,5 +166,5 @@ function clearPage() {
 
 refs.form.addEventListener('submit', onSubmitClick);
 refs.btnLoadMore.addEventListener('click', loadMorePhotos);
-refs.footer.createElementById('#footer');
+
 
