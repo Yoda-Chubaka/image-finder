@@ -344,8 +344,8 @@ body {
   background-color: rgb(150, 98, 132);
   width: 100%;
   margin-bottom: -62.5px;
-  flex-grow: 0; /*Запрещаем увеличиваться*/
-  flex-shrink: 0; /*Запрещаем сжиматься*/
+  flex-grow: 0;
+  flex-shrink: 0;
   flex-basis: auto;
   grid-row-start: 2;
   grid-row-end: 3;
