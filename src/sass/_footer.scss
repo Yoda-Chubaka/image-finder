@@ -9,9 +9,9 @@ html {
 
  .footer {
 // bottom: 0;
-    background-color: rgb(160, 116, 145);
+    background-color: rgb(150, 98, 132);
     width: 100%;
-    margin-bottom: -62px;
+    margin-bottom: -62.5px;
     flex-grow: 0; /*Запрещаем увеличиваться*/
   flex-shrink: 0; /*Запрещаем сжиматься*/
   flex-basis: auto;
@@ -24,13 +24,13 @@ html {
     flex-wrap: nowrap;
     align-items: center;
     justify-content: center;
-    height: 120px;
+    height: 80px;
     z-index: 1000;
     
  }
  .article {
-    color: blue;
-
+   color: #fff;
+   font-size: 16px;
     
  }
 
@@ -39,7 +39,8 @@ html {
  }
 
  .footer-link:visited {
-    color: blue;
+    color: #fff;
+    font-size: 16px;
     }
 
  .footer-link:hover,
